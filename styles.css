@@ -11,8 +11,7 @@ body {
 
 .container {
     width: 100%;
-    max-width: 640px;
-    
+    max-width: 640px;   
     padding: 1.5rem auto;
     margin-inline: auto;
 }
